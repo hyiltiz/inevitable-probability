@@ -1,4 +1,4 @@
-# Inevitable probability
+# Inevitable Probability
 This repository contains the code and data used to obtain the results reported in the following paper:
 
 Orhan AE, Ma WJ (2017) Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback. *Nature Communications*. [[arXiv:1601.03060](https://arxiv.org/abs/1601.03060)]
